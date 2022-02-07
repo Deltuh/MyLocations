@@ -97,7 +97,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Tag Location"/>
                                 <connections>
-                                    <segue destination="rAa-LF-HKJ" kind="show" id="Zjf-5z-z5a"/>
+                                    <segue destination="rAa-LF-HKJ" kind="show" identifier="TagLocation" id="Zjf-5z-z5a"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jEw-qW-p9z">
